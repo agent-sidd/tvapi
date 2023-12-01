@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Optional: IDE and text editor-specific files
+.idea/
+.vscode/
+
+# Optional: System Files
+.DS_Store
+Thumbs.db
